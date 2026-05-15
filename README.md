@@ -11,8 +11,8 @@ I received my Ph.D. in Applied Mathematics from the **University of Maryland, Ba
 - Data science, machine learning
 
 ## Publications
-- **Rathinam & Yu** — *Stochastic Filtering of Reaction Networks Partially Observed in Time Snapshots*, Journal of Computational Physics, 2024
-- **Rathinam & Yu** — *State and parameter estimation from exact partial state observation in stochastic reaction networks*, Journal of Chemical Physics, 2021
+- **Rathinam & Yu** — *Stochastic Filtering of Reaction Networks Partially Observed in Time Snapshots*, Journal of Computational Physics, 2024. [[DOI]](https://doi.org/10.1016/j.jcp.2024.113265) · [[arXiv]](https://arxiv.org/abs/2307.16734)
+- **Rathinam & Yu** — *State and parameter estimation from exact partial state observation in stochastic reaction networks*, Journal of Chemical Physics, 2021. [[DOI]](https://doi.org/10.1063/5.0032539) · [[arXiv]](https://arxiv.org/abs/2010.04346)
 
 ## Skills
 `MATLAB` `Python` `C/C++` `R` `LaTeX` `Linux` `GitHub`
