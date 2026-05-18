@@ -6,8 +6,7 @@ I received my Ph.D. in Applied Mathematics from the **University of Maryland, Ba
 
 ##  Research Interests
 - Stochastic filtering and state/parameter estimation
-- Monte Carlo particle methods and resampling
-- Stochastic biochemical reaction networks and mathematical biology
+- Stochastic chemical reaction networks and mathematical biology
 - Data science, machine learning
 
 ## Publications
