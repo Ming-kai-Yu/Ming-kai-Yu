@@ -1,6 +1,6 @@
 # Hi, I'm Mingkai Yu 
 
-I'm an applied mathematician specializing in **Stochastic Filtering**, **Numerical Analysis**, and **Bayes Inverse Problems**, with applications to systems biology and epidemiological modeling.
+I'm an applied mathematician specializing in **Stochastic Filtering**, **Numerical Analysis**, and **Bayesian Inference**, with applications to systems biology and epidemiological modeling.
 
 I received my Ph.D. in Applied Mathematics from the **University of Maryland, Baltimore County (UMBC)** in 2023. I am currently seeking **postdoctoral positions** in applied mathematics, scientific computing, or related areas.
 
@@ -20,4 +20,4 @@ I received my Ph.D. in Applied Mathematics from the **University of Maryland, Ba
 ##  Contact
 -  [Personal Website](https://ming-kai-yu.github.io)
 -  [LinkedIn](https://linkedin.com/in/mingkai-yu-phd)
--  mingkaiyu@umbc.edu
+-  mingkaiyu at umbc dot edu
